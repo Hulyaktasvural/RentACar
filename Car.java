@@ -3,3 +3,5 @@
 
 
 yeni kodlar ekledim
+bazı çalışmalar yaptım
+
